@@ -64,6 +64,6 @@ function greatestNumerFrom(num) {
     "El número más grande que puedes construir con " + num + " es >> " + numMax
   );
 }
-greatestNumerFrom(1400000089);
+greatestNumerFrom(78456321555);
 
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
